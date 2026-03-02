@@ -65,16 +65,16 @@ const HeroSection = () => {
       <div className="hero-container">
         {isTablet ? (
           <>
-            {isMobile && <img src="public/images/hero-bg.png" alt="" className="absolute bottom-40 size-full object-cover" />}
+            {isMobile && <img src="/images/hero-bg.png" alt="" className="absolute bottom-40 size-full object-cover" />}
             <img
-              src="public/images/hero-img.png"
+              src="/images/hero-img.png"
               alt=""
               className="absolute bottom-0 left-1/2 -translate-x-1/2 object-auto"
             />
           </>
         ) : (
           <video
-            src="public/videos/hero-bg.mp4"
+            src="/videos/hero-bg.mp4"
             autoPlay
             muted
             playsInline
