@@ -2,7 +2,7 @@
  <br />
   <div align="center" >
    <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-     <img  src="public/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
+     <img  src="/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
    </a></div>
  <br />
  <br />
@@ -58,7 +58,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone [https://github.com/Kafoor-Nimas/gsap-awwwards-website.git](https://github.com/Kafoor-Nimas/gsap-awwwards-website.git)
 
 # 2. Install dependencies
 npm install
@@ -465,14 +465,10 @@ export { flavorlists, nutrientLists, cards };
 
 </details>
 
-## Assets
+## 🌐 Live Demo
 
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
+🚀 **[View Live Site →](https://gsap-awwwards-website-alpha.vercel.app/)**
 
-## Community
+> Deployed on Vercel
 
-Join the community and connect with other developers!
 
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
