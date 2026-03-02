@@ -28,26 +28,24 @@ const VideoPinSection = () => {
     <section className="vd-pin-section">
       <div
         style={{
-          clipPath: isMobile ? "circle(100% at 50% 50%)" : "circle(6% at 50% 50%)",
+          clipPath: isMobile
+            ? "circle(100% at 50% 50%)"
+            : "circle(6% at 50% 50%)",
         }}
         className="size-full video-box"
       >
         <video
-          src="public/videos/pin-video.mp4"
+          src="/videos/pin-video.mp4"
           playsInline
           muted
           loop
           autoPlay
         ></video>
         <div className="abs-center md:scale-100 scale-200">
-          <img
-            src="public/images/circle-text.svg"
-            alt=""
-            className="spin-circle"
-          />
+          <img src="/images/circle-text.svg" alt="" className="spin-circle" />
           <div className="play-btn flex justify-center items-center">
             <img
-              src="public/images/play.svg"
+              src="/images/play.svg"
               alt=""
               className="size-[3vw] ml-[0.5vw]"
             />
