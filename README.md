@@ -1,12 +1,3 @@
-<div >
- <br />
-  <div align="center" >
-   <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-     <img  src="/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
-   </a></div>
- <br />
- <br />
-
  <div>
    <img src="https://img.shields.io/badge/-React_JS_V19-black?style=for-the-badge&logoColor=white&logo=react&color=007ACC" alt="react.js" />
    <img src="https://img.shields.io/badge/-Tailwind_CSS_v4-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=030712" alt="tailwindcss" />
@@ -470,5 +461,3 @@ export { flavorlists, nutrientLists, cards };
 🚀 **[View Live Site →](https://gsap-awwwards-website-alpha.vercel.app/)**
 
 > Deployed on Vercel
-
-
